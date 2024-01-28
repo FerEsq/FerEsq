@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/feresq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feresq&theme=soft-green&border=226946&background=0D1117" alt="Fer's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feresq&theme=soft-green&border=226946&background=0D1117&stroke=96CDCA&ring=226946&fire=226946&currStreakNum=226946&sideNums=226946&currStreakLabel=226946&sideLabels=226946&dates=96CDCA" alt="Fer's GitHub streak"/>
   </a>
 </p>
 
