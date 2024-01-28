@@ -97,7 +97,7 @@
 
 <a> 
     <a href="https://github.com/feresq"><img alt="Fer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=feresq&show_icons=true&count_private=true&theme=gotham&border_color=226946&bg_color=0D1117&title_color=226946&icon_color=226946" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Fer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=gotham&border_color=226946&bg_color=0D1117&title_color=226946&icon_color=226946" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/feresq"><img alt="Fer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=feresq&langs_count=4&layout=compact&theme=gotham&border_color=226946&bg_color=0D1117&title_color=226946&icon_color=226946" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
